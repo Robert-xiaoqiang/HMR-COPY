@@ -13,3 +13,5 @@
 
 - `bash 3d_pose_estimation.sh <Images Dir Name>` will save 3d mesh results in`meshes_from_video/` by using [HMR paper](https://github.com/akanazawa/hmr)
 - `bash istov.sh <Meshes Dir Name> <FPS>` will generate final mesh-video
+
+![sample2](GIF.gif "sample2")
